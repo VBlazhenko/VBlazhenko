@@ -8,8 +8,10 @@ A productive and motivated Computer Science student with experience in Python, H
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="HTML" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" height="50" width="50"/> <img
+src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure" heigh="50" width="50"/> <img
+src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="50" height="50"/>
 
 <!--
 **VBlazhenko/VBlazhenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
