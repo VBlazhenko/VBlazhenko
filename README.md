@@ -7,7 +7,10 @@ A productive and motivated Computer Science student with experience in Python, H
 ---
 
 🧰 Toolbox
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="HTML" width="50" height="50" />
 
 <!--
 **VBlazhenko/VBlazhenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
