@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Vladyslav Blazhenko 
 
+A productive and motivated Computer Science student with experience in Python, HTML,CSS, Azure Endpoint looking for a kickstart profession to enhance my personal and professional skills. Skilled in working under pressure, meeting set deadlines, working with clients, and understanding of how a problem/task should be approached.
+
 <!--
 **VBlazhenko/VBlazhenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
