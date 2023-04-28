@@ -1,4 +1,4 @@
-### Hi there 👋, I am Vladyslav Blazhenko 
+### Hi there 👋, I am Vlad
 
 ---
 
