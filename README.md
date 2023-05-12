@@ -21,7 +21,10 @@ In Progress
 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="50" width="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="50" width="50"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" width="50"/>
+src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" width="50"/> <img
+src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" height="50" width="50"/> <img
+src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" height="50" width="50"/>
+
 
 <!--
 **VBlazhenko/VBlazhenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
