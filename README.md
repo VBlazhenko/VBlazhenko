@@ -22,8 +22,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-
 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="50" width="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="50" width="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" width="50"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" height="50" width="50"/> <img
-src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" height="50" width="50"/>
+src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" height="60" width="60"/> <img
+src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" height="60" width="60"/>
 
 
 <!--
