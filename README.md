@@ -58,7 +58,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/vladyslav-blazhenko-585007206/" target="_blank">
-    <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
+    <code><img width="55" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg"/></code>
   </a>
   <a href="mailto: blazhenko2603@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
