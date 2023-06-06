@@ -2,13 +2,13 @@
 
 <h1> 𝗛ey! 𝗜'𝗺 Vlad.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="10" style="margin-left: 10px;"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="25" style="margin-left: 10px;"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 
 A productive and motivated Computer Science graduate with experience in Python, HTML,CSS, JS and Azure Endpoint looking for a kickstart profession to enhance my personal and professional skills. Skilled in working under pressure, meeting set deadlines, working with clients, and understanding of how a problem/task should be approached. <br>
 I am eager to contribute my strong technical background and passion for technology to a dynamic organisation. Having completed a Bachelor's degree in Computer Science, I have acquired a wealth of experience through working full time and real-world projects.
 
-<img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
+<img align="right" width="35%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
