@@ -8,13 +8,13 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nextjs-logo.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/redux-logo.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
+<code><img width="43" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img width="43" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<code><img width="43" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"></code>
+<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/figma-logo.png"></code>
+<code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
 
 <br>
 <h2>In Progress</h2>
