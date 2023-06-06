@@ -35,7 +35,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span>𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</span>
+  <span>My 𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁istics</span>
 </summary>
 <br>
 
@@ -75,5 +75,5 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 #
 
-<h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/LeonardoYz">LeonardoYz</a></h4>
-<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 04/08/2022</p>
+<h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/LeonardoYz">Vladyslav B.</a></h4>
+<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 06/06/2023</p>
