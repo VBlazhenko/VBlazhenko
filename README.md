@@ -51,7 +51,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 </details>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBlazhenko&show_icons=true&theme=transparent)
 
 <h2>
   𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
