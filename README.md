@@ -3,7 +3,7 @@
 <h1> 𝗛ey! 𝗜'𝗺 Vlad.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" style="margin-left: 50px;"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 
 <br/>
