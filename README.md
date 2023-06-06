@@ -43,7 +43,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 <br>
 
 ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBlazhenko&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBlazhenko&theme=transparent)](https://github.com/VBlazhenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBlazhenko&layout=compact&theme=transparent)](https://github.com/VBlazhenko/github-readme-stats)
 
 
 <h2>
