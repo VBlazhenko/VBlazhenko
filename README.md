@@ -57,17 +57,20 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 <p align="center">
   <br>
-  <a href="[https://www.linkedin.com/in/leonardo-yzquierdo-97899983/](https://www.linkedin.com/in/vladyslav-blazhenko-585007206/)" target="_blank">
+  <a href="https://www.linkedin.com/in/vladyslav-blazhenko-585007206/" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: blazhenko2603@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
+    <a href="https://twitter.com/VBlazhenko_Dev" target="_blank">
+    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/twitter.png"/></code>
+  </a>
 </p>
 <br/>
 
 
-  ![Snake animation](https://github.com/VBlazhenko/VBlazhenko/blob/output/github-contribution-grid-snake.svg)
+
 
 #
 
