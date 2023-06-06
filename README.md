@@ -64,10 +64,11 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
     <a href="https://twitter.com/VBlazhenko_Dev" target="_blank">
-    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/twitter.png"/></code>
+    <code><img width="55" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg"/></code>
   </a>
 </p>
 <br/>
+
 
 
 
