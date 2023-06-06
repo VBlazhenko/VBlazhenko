@@ -2,7 +2,7 @@
 
 <h1> 𝗛ey! 𝗜'𝗺 Vlad.<img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" style="margin-left: 10px;"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="20" style="margin-left: 10px;"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 
 A productive and motivated Computer Science graduate with experience in Python, HTML,CSS, JS and Azure Endpoint looking for a kickstart profession to enhance my personal and professional skills. Skilled in working under pressure, meeting set deadlines, working with clients, and understanding of how a problem/task should be approached. <br>
