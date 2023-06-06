@@ -31,6 +31,11 @@ src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-o
 src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" height="60" width="60"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" height="60" width="60"/>
 
+<br>
+<h2>My Favourite Coding Tool</h2>
+<code><img width="40" src="https://raw.githubusercontent.com/LeonardoYz/LeonardoYz/131012de2f1dd0ebeb603553c661639ffd7a689b/assets/vsCode.svg"></code>
+
+
 <br/>
 <br/>
 
