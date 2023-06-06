@@ -33,7 +33,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 <br/>
 <br/>
-
+![light](https://raw.githubusercontent.com/VBlazhenko/VBlazhenko/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
 #
 
 <details open="">
