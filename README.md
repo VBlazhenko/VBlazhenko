@@ -4,6 +4,7 @@
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" style="margin-left: 50px;"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
+<img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
