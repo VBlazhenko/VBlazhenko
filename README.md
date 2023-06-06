@@ -41,8 +41,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 <p align="center">
   <a href="https://github.com/LeonardoYz" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=VBlazhenko&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBlazhenko&layout=compact&theme=react" alt="Most Used Languages" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=VBlazhenko&show_icons=true&theme=react"/>
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBlazhenko&layout=compact&theme=react" />
   </a>
 </p>
 </details>
@@ -57,17 +57,17 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
+  <a href="[https://www.linkedin.com/in/leonardo-yzquierdo-97899983/](https://www.linkedin.com/in/vladyslav-blazhenko-585007206/)" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
-  <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
+  <a href="mailto: blazhenko2603@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
 <br/>
 
 
-  ![Snake animation](https://github.com/LeonardoYz/LeonardoYz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/VBlazhenko/VBlazhenko/blob/output/github-contribution-grid-snake.svg)
 
 #
 
