@@ -44,14 +44,13 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 <p align="center">
   <a href="https://github.com/LeonardoYz" target="_blank">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=VBlazhenko&show_icons=true&theme=react"/>
+    ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBlazhenko&show_icons=true&theme=transparent)
     <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBlazhenko&layout=compact&theme=react" />
   </a>
 </p>
 </details>
 <br>
 
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBlazhenko&show_icons=true&theme=transparent)
 
 <h2>
   𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
