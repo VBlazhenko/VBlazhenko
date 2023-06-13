@@ -11,6 +11,7 @@ I am eager to contribute my strong technical background and passion for technolo
 <img align="right" width="45%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
 <br/>
+
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
 <code><img width="43" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></code>
