@@ -42,14 +42,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 
 <details open="">
-<summary>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span>My 𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁istics</span>
-</summary>
-<br>
-
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBlazhenko&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBlazhenko&layout=compact&theme=transparent)](https://github.com/VBlazhenko/github-readme-stats)
 
 
 <h2>
