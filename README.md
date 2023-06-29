@@ -5,7 +5,7 @@
 
 
 
-A productive and motivated Computer Science graduate with experience in Python, HTML,CSS, JS and Azure Endpoint looking for a kickstart profession to enhance my personal and professional skills. Skilled in working under pressure, meeting set deadlines, working with clients, and understanding of how a problem/task should be approached.<br> <br>
+A productive and motivated Computer Science graduate with a First Honour degree and experience in Python, HTML,CSS, JS and Azure Endpoint looking for a kickstart profession to enhance my personal and professional skills. Skilled in working under pressure, meeting set deadlines, working with clients, and understanding of how a problem/task should be approached.<br> <br>
 I am eager to contribute my strong technical background and passion for technology to a dynamic organisation. Having completed a Bachelor's degree in Computer Science, I have acquired a wealth of experience through working full time and real-world projects.
 
 <img align="right" width="45%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
