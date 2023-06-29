@@ -20,12 +20,12 @@ I am eager to contribute my strong technical background and passion for technolo
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
 <code><img width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"></code>
 
 <br>
 <h2>In Progress</h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" width="50"> <img
-src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50"/> <img
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="50" width="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="50" width="50"/> <img
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="50" width="50"/> <img
