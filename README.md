@@ -75,4 +75,4 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 #
 
 <h4>𝗖𝗿𝗲𝗱𝗶𝘁: <a href="https://github.com/VBlazhenko">Vladyslav B.</a></h4>
-<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 06/06/2023</p>
+<p>𝗟𝗮𝘀𝘁 𝗘𝗱𝗶𝘁𝗲𝗱 𝗢𝗻: 04/07/2023</p>
