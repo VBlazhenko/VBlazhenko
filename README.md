@@ -38,7 +38,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-o
 
 
 <br/>
-<br/>
 
 
 <details open="">
